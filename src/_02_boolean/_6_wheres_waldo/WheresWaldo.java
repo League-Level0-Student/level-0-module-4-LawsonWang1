@@ -58,7 +58,9 @@ public class WheresWaldo extends PApplet {
     @Override
     public void draw() {
     	println("X: " + mouseX + " Y: " + mouseY);
-    	if(mouseX = 190)
+    	
+    		
+    	}
     }
 
     static public void main(String[] args) {
